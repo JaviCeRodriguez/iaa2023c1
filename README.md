@@ -11,9 +11,6 @@ La estructura del repositorio es la siguiente:
     ├── LICENSE
     └── README.md
 
-## Contenidos de la Materia
-TBD
-
 ## Guias
 - Guia 0: [Python - Local o en la nube](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_0_Python.pdf)
 - Guia 0: [Repaso Python 1](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_0_Repaso_Python_1.ipynb)
@@ -23,6 +20,7 @@ TBD
 - Guia 2: [Regresión Lineal - Extras](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_2_RegresionLineal_Extras.ipynb)
 - Guia 2: [Regresión Lineal - Extra: preprocesamiento dataset](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_2_PrePro_Dataset.ipynb)
 - Guia 3: [Clasificación Binaria](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_3_ClasificacionBinaria.ipynb)
+- Guia 4: [Regresión Polinomial](https://github.com/LCD-UNSAM/iaa2023c1/blob/main/guias/IAA_Guia_4_RegresionPolinomica.ipynb)
 
 ## Bibliografía 
 
